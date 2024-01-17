@@ -163,7 +163,7 @@ described, if not, motions may move in strange directions. grblHAL requires the 
 have the same steps per mm internally.
 */
 #if !defined COREXY || defined __DOXYGEN__
-#define COREXY Off
+#define COREXY On
 #endif
 
 /*! \def CHECK_MODE_DELAY
